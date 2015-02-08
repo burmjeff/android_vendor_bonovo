@@ -1,0 +1,19 @@
+#该文件列出了所有被修改的git库的目录
+
+0.  .repo/manifests
+1.  device/rockchip/rk3188
+2.  device/rockchip/rksdk
+3.  frameworks/av
+4.  frameworks/base
+5.  frameworks/native
+6.  frameworks/opt/telephony
+7.  hardware/rk29/gps
+8.  hardware/rk29/liblights
+9.  kernel
+10. packages/apps/BonovoApps(该目录是自己新增的一个git库）
+11. packages/apps/Launcher3
+12. packages/apps/Settings
+13. system/core
+14. vendor
+15. RKTools
+16. bootable/recovery

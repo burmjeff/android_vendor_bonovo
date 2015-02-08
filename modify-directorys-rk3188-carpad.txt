@@ -1,0 +1,17 @@
+## 该文件列出了所有被修改的git库的目录
+## branch:rk3188-carpad
+#  该分支是在rk3188-box分支的基础上修改的，所以使用的时候要执行一下步骤：
+#      repo forall -c git checkout rk3188-box
+#      repo forall -c git checkout rk3188-carpad
+
+1. RKTools
+2. bootable/recovery
+3. device/rockchip/rk3188
+4. device/rockchip/rksdk
+5. frameworks/base
+6. frameworks/native
+7. hardware/rk29/audio
+8. kernel
+9. packages/apps/BonovoApps
+10. packages/apps/Settings
+11. system/vold
